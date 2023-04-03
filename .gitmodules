@@ -1,0 +1,6 @@
+[submodule "chez-raylib"]
+	path = chez-raylib
+	url = https://github.com/Yunoinsky/chez-raylib
+[submodule "chez-xml"]
+	path = chez-xml
+	url = https://github.com/Yunoinsky/chez-xml
